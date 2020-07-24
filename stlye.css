@@ -1,0 +1,23 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.header, .hero, .body, .bar, .footer {
+	padding: 10px 0;
+	background-color: aqua;
+	margin-bottom: 10px;
+}
+/*header start*/
+.box {
+	font-size: 25px;
+	color: white;
+	min-height: 80px;
+	background-color: blue; 
+	margin-bottom: 10px;	
+}
+/*header end*/
+/*hero start*/
+.blue {
+	background-color: red;
+}
+/*hero end*/
